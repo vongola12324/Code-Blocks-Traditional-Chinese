@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-08 22:50+0800\n"
-"PO-Revision-Date: 2016-07-08 22:51+0800\n"
+"PO-Revision-Date: 2016-07-08 23:08+0800\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,7 +69,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 1.8.8\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Language: zh_TW\n"
@@ -113,7 +113,7 @@ msgstr ""
 #: ../plugins/contrib/PythonPlugins/codecheck/asyncprocess.cpp:74
 #: ../plugins/contrib/SpellChecker/wxspellchecker/tools/DictionaryWizard.cpp:441
 msgid "\n"
-msgstr ""
+msgstr "\n"
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:807
 msgid ""
@@ -121,6 +121,9 @@ msgid ""
 "\n"
 "Are you sure that you want to OVERWRITE the file?"
 msgstr ""
+"\n"
+"\n"
+"你確定要「覆蓋」這個檔案嗎？"
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:1433
 msgid ""
@@ -129,6 +132,10 @@ msgid ""
 "Are you sure that you want to OVERWRITE the file?\n"
 "\n"
 msgstr ""
+"\n"
+"\n"
+"你確定要「覆蓋」這個檔案嗎？\n"
+"\n"
 
 #: ../plugins/contrib/FortranProject/changecase.cpp:224
 msgid ""
@@ -136,6 +143,9 @@ msgid ""
 " is a Fortran Source File?\n"
 "Continue to change-case?"
 msgstr ""
+"\n"
+"是 Fortran 的原始碼檔案嗎？\n"
+"Continue to change-case?"
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:975
 #: ../plugins/contrib/FortranProject/tab2space.cpp:189
@@ -143,24 +153,32 @@ msgid ""
 "\n"
 " is not recognized as a Fortran Source File."
 msgstr ""
+"\n"
+"不是 Fortran 的原始碼檔案。"
 
 #: ../plugins/contrib/FortranProject/parserf.cpp:2329
 msgid ""
 "\n"
 "!File: "
 msgstr ""
+"\n"
+"！文件："
 
 #: ../plugins/contrib/FortranProject/parserf.cpp:2325
 msgid ""
 "\n"
 "!Module: "
 msgstr ""
+"\n"
+"！模組："
 
 #: ../plugins/contrib/FortranProject/parserf.cpp:2292
 msgid ""
 "\n"
 "!Type: "
 msgstr ""
+"\n"
+"！類型："
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:942
 #: ../plugins/contrib/FortranProject/changecase.cpp:143
@@ -169,30 +187,40 @@ msgid ""
 "\n"
 "\""
 msgstr ""
+"\n"
+"\""
 
 #: ../sdk/cbproject.cpp:473 ../sdk/cbproject.cpp:490 ../sdk/cbworkspace.cpp:119
 msgid ""
 "\n"
 "(Maybe the file is write-protected?)"
 msgstr ""
+"\n"
+"（或許這個檔案有防寫保護？）"
 
 #: ../plugins/contrib/headerfixup/execution.cpp:311
 msgid ""
 "\n"
 "--> All files were OK. Nothing to be done.\n"
 msgstr ""
+"\n"
+"--> 所有檔案皆沒有問題，沒有任何要做的事\n"
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:1310
 msgid ""
 "\n"
 "A message was added to 'bindto.log' file."
 msgstr ""
+"\n"
+"訊息已經被記錄到 bindto.log 檔案中。"
 
 #: ../plugins/contrib/FileManager/FileExplorer.cpp:1508
 msgid ""
 "\n"
 "Are you sure?"
 msgstr ""
+"\n"
+"你確定嗎？"
 
 #: ../plugins/astyle/astyle/astyle_main.cpp:445
 msgid ""
@@ -211,18 +239,24 @@ msgid ""
 "\n"
 "Done.\n"
 msgstr ""
+"\n"
+"已完成.\n"
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:1548
 msgid ""
 "\n"
 "ERROR: Function '"
 msgstr ""
+"\n"
+"錯誤︰函數 '"
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:1701
 msgid ""
 "\n"
 "ERROR: Procedure '"
 msgstr ""
+"\n"
+"錯誤︰程式 '"
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:1552
 #: ../plugins/contrib/FortranProject/bindto.cpp:1705
@@ -237,24 +271,33 @@ msgid ""
 "Hopefully, this will prevent you from losing recent modifications.\n"
 "\n"
 msgstr ""
+"\n"
+"幸運地，他會阻止你遺失最近的修改。\n"
+"\n"
 
 #: ../plugins/contrib/symtab/symtabexec.cpp:416
 msgid ""
 "\n"
 "Please wait, this can take a long time..."
 msgstr ""
+"\n"
+"請稍後，這可能會花上許多時間..."
 
 #: ../plugins/contrib/symtab/symtabexec.cpp:514
 msgid ""
 "\n"
 "Please wait..."
 msgstr ""
+"\n"
+"請稍後..."
 
 #: ../sdk/editorbase.cpp:165
 msgid ""
 "\n"
 "Project: "
 msgstr ""
+"\n"
+"專案："
 
 #: ../plugins/debuggergdb/gdb_commands.h:1827
 msgid ""
@@ -262,6 +305,9 @@ msgid ""
 "The exact error message was:\n"
 "\n"
 msgstr ""
+"\n"
+"確切的錯誤訊息：\n"
+"\n"
 
 #: ../plugins/contrib/FortranProject/bindto.cpp:1309
 msgid ""
@@ -784,11 +830,11 @@ msgstr ""
 
 #: ../plugins/contrib/wxSmith/wxssettings.cpp:256 plugins_xrc.cpp:171
 msgid "\"\""
-msgstr ""
+msgstr "\"\""
 
 #: ../sdk/wxpropgrid/samples/sampleprops.cpp:583
 msgid "\"%s\" is not a floating-point number."
-msgstr ""
+msgstr "\"%s\" 不是一個浮點數。"
 
 #: ../plugins/scriptedwizard/compilerpanel.cpp:76
 msgid "\"Debug\" options"
@@ -853,15 +899,15 @@ msgstr ""
 
 #: ../plugins/contrib/wxSmithSTC/wxsSTEditor.cpp:99
 msgid "\"stedit.h\""
-msgstr ""
+msgstr "\"stedit.h\""
 
 #: ../plugins/contrib/wxSmithContribItems/wximagepanel/wxsimagepanel.cpp:113
 msgid "\"wx/wxImagePanel.h\""
-msgstr ""
+msgstr "\"wx/wxImagePanel.h\""
 
 #: ../plugins/contrib/wxSmithSTC/wxsScintilla.cpp:165
 msgid "\"wxscintilla.h\""
-msgstr ""
+msgstr "\"wxscintilla.h\""
 
 #: ../plugins/contrib/CBMakeGen/Makefile.cpp:755
 #: ../plugins/contrib/CBMakeGen/Makefile.cpp:868
@@ -870,7 +916,7 @@ msgstr ""
 #: ../plugins/contrib/CBMakeGen/Makefile_v2.cpp:746
 #: ../plugins/contrib/CBMakeGen/Makefile_v2.cpp:859
 msgid "# "
-msgstr ""
+msgstr "#"
 
 #: ../plugins/contrib/CBMakeGen/Makefile.cpp:787
 #: ../plugins/contrib/CBMakeGen/Makefile_old.cpp:732
@@ -973,11 +1019,11 @@ msgstr ""
 
 #: ../plugins/contrib/CBMakeGen/Makefile_v2.cpp:617
 msgid "$(CFLAGS)"
-msgstr ""
+msgstr "$(CFLAGS)"
 
 #: ../plugins/contrib/CBMakeGen/Makefile_v2.cpp:511
 msgid "$(LDFLAGS)"
-msgstr ""
+msgstr "$(LDFLAGS)"
 
 #: plugins_xrc.cpp:268
 msgid ""
@@ -1011,6 +1057,35 @@ msgid ""
 "$resource_output\n"
 "$objects_output_dir"
 msgstr ""
+"$compiler\n"
+"$rescomp\n"
+"$linker\n"
+"$lib_linker\n"
+"$options\n"
+"$res_options\n"
+"$link_options\n"
+"$includes\n"
+"$res_includes\n"
+"$libdirs\n"
+"$libs\n"
+"$file\n"
+"$file_dir\n"
+"$file_name\n"
+"$file_ext\n"
+"$object\n"
+"$dep_object\n"
+"$link_objects\n"
+"$link_flat_objects\n"
+"$link_resobjects\n"
+"$exe_output\n"
+"$exe_dir\n"
+"$exe_name\n"
+"$exe_ext\n"
+"$static_output\n"
+"$exe_output\n"
+"$def_output\n"
+"$resource_output\n"
+"$objects_output_dir"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:307
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:338
@@ -1020,7 +1095,7 @@ msgstr ""
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:680
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:804
 msgid "$dir"
-msgstr ""
+msgstr "$dir"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:337
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:519
@@ -1028,7 +1103,7 @@ msgstr ""
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:747
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:781
 msgid "$fext"
-msgstr ""
+msgstr "$text"
 
 #: ../plugins/contrib/PythonPlugins/codecheck/codechecker.cpp:124
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:286
@@ -1038,7 +1113,7 @@ msgstr ""
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:744
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:778
 msgid "$file"
-msgstr ""
+msgstr "$file"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:336
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:518
@@ -1046,24 +1121,24 @@ msgstr ""
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:746
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:780
 msgid "$fname"
-msgstr ""
+msgstr "$fname"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:364
 msgid "$inputstr"
-msgstr ""
+msgstr "$inputstr"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:346
 msgid "$inputstr{"
-msgstr ""
+msgstr "$inputstr{"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:371
 msgid "$interpreter"
-msgstr ""
+msgstr "$interpreter"
 
 #: ../plugins/contrib/CBMakeGen/Makefile.cpp:491
 #: ../plugins/contrib/CBMakeGen/Makefile_v2.cpp:489
 msgid "$link_options"
-msgstr ""
+msgstr "$link_options"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:318
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:342
@@ -1075,11 +1150,11 @@ msgstr ""
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:808
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:841
 msgid "$mpaths"
-msgstr ""
+msgstr "$mpaths"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:372
 msgid "$parentdir"
-msgstr ""
+msgstr "$parentdir"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:287
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:340
@@ -1090,14 +1165,14 @@ msgstr ""
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:782
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:806
 msgid "$path"
-msgstr ""
+msgstr "$path"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:339
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:515
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:681
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:805
 msgid "$reldir"
-msgstr ""
+msgstr "$reldir"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:335
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:512
@@ -1105,7 +1180,7 @@ msgstr ""
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:745
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:779
 msgid "$relfile"
-msgstr ""
+msgstr "$relfile"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:341
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:517
@@ -1115,44 +1190,44 @@ msgstr ""
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:783
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:807
 msgid "$relpath"
-msgstr ""
+msgstr "$relpath"
 
 #: ../plugins/contrib/envvars/envvars_common.cpp:360
 #: ../plugins/contrib/envvars/envvars_common.cpp:438
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: ../plugins/contrib/devpak_plugin/conf.cpp:26
 msgid "%.2f KB"
-msgstr ""
+msgstr "%.2f KB"
 
 #: ../plugins/contrib/devpak_plugin/conf.cpp:24
 msgid "%.2f MB"
-msgstr ""
+msgstr "%.2f MB"
 
 #: ../plugins/contrib/lib_finder/projectmissinglibs.cpp:199
 msgid "%.2f%% - Downloading %s"
-msgstr ""
+msgstr "%.2f%% - 下載中%s"
 
 #: ../sdk/projectfileoptionsdlg.cpp:341
 msgid "%02hd/%02hd/%d %02hd:%02hd:%02hd"
-msgstr ""
+msgstr "%02hd/%02hd/%d %02hd:%02hd:%02hd"
 
 #: ../plugins/contrib/codestat/codestatexec.cpp:297
 msgid "%3d%% Code + Comment"
-msgstr ""
+msgstr "%3d%% 程式碼（含註解）"
 
 #: ../plugins/contrib/codestat/codestatexec.cpp:291
 msgid "%3d%% Code only"
-msgstr ""
+msgstr "%3d%% 程式碼"
 
 #: ../plugins/contrib/codestat/codestatexec.cpp:303
 msgid "%3d%% Comments"
-msgstr ""
+msgstr "%3d%% 註解"
 
 #: ../plugins/contrib/codestat/codestatexec.cpp:309
 msgid "%3d%% Empty"
-msgstr ""
+msgstr "%3d%% 空白"
 
 #: ../plugins/contrib/wxSmithContribItems/wxtreelist/wxsTreeListCtrl.cpp:249
 msgid "%AAddColumn(%t, %d);\n"
@@ -1173,23 +1248,23 @@ msgstr ""
 #: ../plugins/contrib/wxSmith/wxwidgets/properties/wxsimagelisteditordlg.cpp:988
 #: ../plugins/contrib/wxSmithContribItems/wximagebutton/wxsimagebutton.cpp:224
 msgid "%d"
-msgstr ""
+msgstr "%d"
 
 #: ../plugins/contrib/HexEditor/HexEditPanel.cpp:910
 msgid "%d bits"
-msgstr ""
+msgstr "%d 位元"
 
 #: ../plugins/astyle/astyle/astyle_main.cpp:2249
 msgid "%d min %d sec   "
-msgstr ""
+msgstr "%d 分 %d 秒"
 
 #: ../plugins/compilergcc/compilergcc.cpp:3912
 msgid "%d minute(s), %d second(s)"
-msgstr ""
+msgstr "%d 分 %d 秒"
 
 #: ../plugins/codecompletion/ccoptionsdlg.cpp:374
 msgid "%d ms"
-msgstr ""
+msgstr "%d 毫秒"
 
 #: ../sdk/projectmanager.cpp:1101
 msgid ""
@@ -41925,12 +42000,12 @@ msgstr ""
 
 #: ../src/main.h:75
 msgid "|"
-msgstr ""
+msgstr "|"
 
 #: ../plugins/contrib/wxSmithSTC/stedit/src/steexprt.cpp:2039
 msgid "|All files (*)|*"
-msgstr ""
+msgstr "|所有檔案 (*)|*"
 
 #: ../plugins/contrib/ToolsPlus/ToolsPlus.cpp:350
 msgid "}"
-msgstr ""
+msgstr "}"
