@@ -1,5 +1,5 @@
-# Code-Blocks-Traditional-Chinese
-The project for translating Code::Blocks into zh_TW.  
+# Code::Blocks Traditional Chinese Translation
+The project for translating Code::Blocks into Traditional Chinese(Chinese, Taiwan, zh_TW).  
 
 ## Language
 Traditional Chinese (Chinese, Taiwan)  
@@ -26,7 +26,7 @@ It's welcome to send me a pull request or open an issue if you think the transla
 Crowdin and Transifex don't have free plan, I do not have enough budget to use those platform.  
 Also, this translation have more than 9000 strings, I will have to pay at least 79 dollars per month.It's over my budget.  
 Launchpad? Well, the older version of this translation seems that it have not been maintained for a long time, and the platform is not good for translation, so I decided to use github as translation platform.  
-Of course, There might having a better place, so if you found it, please tell me about it, thanks.  
+Of course, There might having a better platform to translation.If you found one, please tell me about it, thanks.  
 
 ## License
 It's free to use under the license of Code::Blocks.  
